@@ -32,11 +32,11 @@ const Navbar = () => {
             <div className="flex items-center">
               <Link to="/" className="flex items-center space-x-3">
                 <div className="w-12 h-12 bg-green-500 rounded-lg flex items-center justify-center">
-                  <span className="text-white font-bold text-xl">GGI</span>
+                  <span className="text-white font-bold text-xl">CNK</span>
                 </div>
                 <div className="flex flex-col">
-                  <span className="text-green-600 font-bold text-lg">Green Generation</span>
-                  <span className="text-sm text-gray-600">Initiative</span>
+                  <span className="text-green-600 font-bold text-lg">Captain Nova</span>
+                  <span className="text-sm text-gray-600">Kenya</span>
                 </div>
               </Link>
             </div>

@@ -11,9 +11,13 @@
   },
   "dependencies": {
     "framer-motion": "^12.16.0",
+    "moment": "^2.30.1",
+    "random": "^5.4.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "react-router-dom": "^7.6.2"
+    "react-router-dom": "^7.6.2",
+    "simple-git": "^3.28.0",
+    "simplegit": "^1.0.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.0",
